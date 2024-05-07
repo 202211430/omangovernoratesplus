@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783929889307",
+    "project_id": "omangovernoratesplus",
+    "storage_bucket": "omangovernoratesplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783929889307:android:5f93831b0f85f7e9311ebe",
+        "android_client_info": {
+          "package_name": "com.example.omangovernoratesplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATDLOXSll1nZJHH3NoblkOsmFwZ12z4zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
